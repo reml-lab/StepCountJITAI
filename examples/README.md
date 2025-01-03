@@ -24,7 +24,7 @@ For example:
 ```
 @inproceedings{StepCountJITAI2024, 
 title = {StepCountJITAI: simulation environment for RL with application to physical activity adaptive intervention},
-author={Karine, Karine and Marlin, Benjamin},
+author={Karine Karine and Benjamin M. Marlin},
 booktitle = {Workshop on Behavioral Machine Learning, Advances in Neural Information Processing Systems},
 year = {2024},
 }
