@@ -3,7 +3,7 @@ from scipy.stats import norm
 from sklearn.preprocessing import OneHotEncoder
 from collections import deque
 import gymnasium as gym
-from gym import spaces
+from gymnasium import spaces
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
